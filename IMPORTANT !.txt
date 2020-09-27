@@ -1,0 +1,16 @@
+
+
+******** Il faut changé les infos "con.ConnectionString" dans Class "ADO" ********
+
+Nom de Base de Donnée : MEDICAMENT
+----------------------------------
+Nom de Table : infoMedicament 
+-----------------------------
+
+CREATE TABLE [dbo].[infoMedicament] (
+    [ID]            INT           IDENTITY (1, 1) NOT NULL,
+    [NomMédicament] VARCHAR (50)  NOT NULL,
+    [Prix]          FLOAT (53)    NOT NULL,
+    [Info]          VARCHAR (MAX) NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);

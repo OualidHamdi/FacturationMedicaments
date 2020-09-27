@@ -1,0 +1,12 @@
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\bin\Debug\VARIABLE.exe.config
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\bin\Debug\VARIABLE.exe
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\bin\Debug\VARIABLE.pdb
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\obj\Debug\VARIABLE.csprojAssemblyReference.cache
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\obj\Debug\VARIABLE.Properties.Resources.resources
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\obj\Debug\VARIABLE.csproj.GenerateResource.cache
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\obj\Debug\VARIABLE.csproj.CoreCompileInputs.cache
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\obj\Debug\VARIABLE.exe
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\obj\Debug\VARIABLE.pdb
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\obj\Debug\VARIABLE.Facture.resources
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\obj\Debug\VARIABLE.Medicament.resources
+C:\Users\adnane\source\repos\VARIABLE\VARIABLE\obj\Debug\VARIABLE.Menu.resources
